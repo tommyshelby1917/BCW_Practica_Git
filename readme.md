@@ -46,4 +46,4 @@
 
 **¿Qué comando o comandos usaste en el punto 33?**
 - `git reflog`
-- `git reset`
+- `git reset 859ea8d`
